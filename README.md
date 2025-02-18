@@ -1,1 +1,1 @@
-# 4-DOF-Metal-Robot-Arm---Arduino Project
+# 4-DOF-Robot-Arm---Arduino Project
