@@ -16,3 +16,4 @@ Few tips:
 
 - pay attention to the motor position before you install it
 - an external PSU is a must, roughly for each servo motor you need 1A
+- test each servo motor before installation
