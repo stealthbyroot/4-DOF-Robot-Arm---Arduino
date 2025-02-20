@@ -19,3 +19,4 @@ Few tips:
 - test each servo motor before installation
 - all joints need to be adjusted, not too tight not too loose, if needed lubricate
 - arm assembly instructions you can find anywhere on the internet
+![IMG_20250220_211049](https://github.com/user-attachments/assets/8456eb5a-c392-421c-b1ea-2142bcf424a4)
