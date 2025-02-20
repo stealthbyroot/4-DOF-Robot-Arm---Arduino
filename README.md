@@ -25,7 +25,7 @@ pin = A1 - right servo
 pin = A2 - left servo
 pin = A3 - claw
 
-![Joystick](https://github.com/user-attachments/assets/25635bc3-477e-435a-8f33-2e119e32d42c)
+![Joystick](https://github.com/user-attachments/assets/c961483e-a2a3-4e0d-be7c-814b3ab736b3)
 
 The schematic and video will be published soon.
 
