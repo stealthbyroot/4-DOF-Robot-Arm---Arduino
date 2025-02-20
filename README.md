@@ -20,3 +20,8 @@ Few tips:
 - all joints need to be adjusted, not too tight not too loose, if needed lubricate
 - arm assembly instructions you can find anywhere on the internet
 ![IMG_20250220_211049](https://github.com/user-attachments/assets/8456eb5a-c392-421c-b1ea-2142bcf424a4)
+![IMG_20250220_211055](https://github.com/user-attachments/assets/717f60db-6a9b-4c75-8cae-b5abf657096a)
+![IMG_20250220_211101](https://github.com/user-attachments/assets/1f98a72e-2653-4ba9-910d-395b3c442cdf)
+![IMG_20250220_211105](https://github.com/user-attachments/assets/9ef3b4ee-d0b7-4d59-b1c6-6ba9740ed9a7)
+![IMG_20250220_211556](https://github.com/user-attachments/assets/faf16c78-0f53-438a-a57b-80465d89013f)
+![IMG_20250220_211601](https://github.com/user-attachments/assets/ff5b97fc-561b-4144-95c1-e36110dc5897)
