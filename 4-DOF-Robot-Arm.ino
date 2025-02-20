@@ -1,4 +1,4 @@
-/* <<< How to control 4 DFO Robot Arm with Arduino using joystick shield >>>
+/* <<< How to control 4 DFO Robot Arm with Arduino using dual joystick shield >>>
    Material needed:
     1x Arduino Uno
     1x Arduino joystick shield
@@ -101,16 +101,6 @@ void loop() {
   }
   // button y
  
-  // - unused z pos
-  //else if (val_z > 750 && y_pos > 40) {
-  //    if (z_pos > 90) {
-  //      z_pos = z_pos - 1;
-  //      servo_z.write(z_pos);
-  //    }
-  //  }
-  //  // joystick Z
-  // - unused z pos
-
   // joystick Z
   if (val_z < 400) {
     if (z_pos < 175) {
