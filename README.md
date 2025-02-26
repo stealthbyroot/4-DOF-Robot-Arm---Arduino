@@ -27,7 +27,7 @@ Few tips:
 
 Video - https://www.youtube.com/shorts/4p3-LlP2Qh4
 
-![Joystick](https://github.com/user-attachments/assets/c961483e-a2a3-4e0d-be7c-814b3ab736b3)
+![Joystick](https://github.com/user-attachments/assets/3600c75c-74fd-4a48-b5be-ea1f50eb4e28)
 
 The schematic will be published soon.
 
