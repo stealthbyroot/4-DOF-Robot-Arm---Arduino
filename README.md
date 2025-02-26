@@ -20,14 +20,16 @@ Few tips:
 - all joints need to be adjusted, not too tight not too loose, if needed lubricate
 - arm assembly instructions you can find anywhere on the internet
 
-pin = A0  - base
-pin = A1 - right servo
-pin = A2 - left servo
-pin = A3 - claw
+- pin = A0  - base
+- pin = A1 - right servo
+- pin = A2 - left servo
+- pin = A3 - claw
+
+Video - https://www.youtube.com/shorts/4p3-LlP2Qh4
 
 ![Joystick](https://github.com/user-attachments/assets/c961483e-a2a3-4e0d-be7c-814b3ab736b3)
 
-The schematic and video will be published soon.
+The schematic will be published soon.
 
 ![IMG_20250220_211049](https://github.com/user-attachments/assets/8456eb5a-c392-421c-b1ea-2142bcf424a4)
 ![IMG_20250220_211055](https://github.com/user-attachments/assets/717f60db-6a9b-4c75-8cae-b5abf657096a)
