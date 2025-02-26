@@ -31,7 +31,6 @@ Video - https://www.youtube.com/shorts/4p3-LlP2Qh4
 
 ![4-DOF-Robot-Arm](https://github.com/user-attachments/assets/eaffee7f-495b-4871-80c6-8346ef326816)
 
-The schematic will be published soon.
 
 ![IMG_20250220_211049](https://github.com/user-attachments/assets/8456eb5a-c392-421c-b1ea-2142bcf424a4)
 ![IMG_20250220_211055](https://github.com/user-attachments/assets/717f60db-6a9b-4c75-8cae-b5abf657096a)
