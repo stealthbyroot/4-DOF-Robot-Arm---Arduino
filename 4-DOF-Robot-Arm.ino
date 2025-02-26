@@ -1,7 +1,7 @@
 /* <<< How to control 4 DFO Robot Arm with Arduino using dual joystick shield >>>
    Material needed:
     1x Arduino Uno
-    1x Arduino joystick shield
+    1x Arduino dual joystick shield
     4x SG-90 servo motors 180 degrees
     1x Robot arm assembly - usually sourced from Ali Express
     1x External power supply 5V/5A (or more amps)
